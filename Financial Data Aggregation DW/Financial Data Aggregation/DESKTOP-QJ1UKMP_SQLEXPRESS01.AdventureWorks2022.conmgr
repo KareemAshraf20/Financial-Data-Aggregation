@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-QJ1UKMP_SQLEXPRESS01.AdventureWorks2022"
+  DTS:DTSID="{777DCB9F-0841-47F9-A674-E06DE33F2032}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-QJ1UKMP\SQLEXPRESS01;Initial Catalog=AdventureWorks2022;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Financial Data Aggregation-{777DCB9F-0841-47F9-A674-E06DE33F2032}DESKTOP-QJ1UKMP\SQLEXPRESS01.AdventureWorks2022;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
